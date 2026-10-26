@@ -1,0 +1,8 @@
+# 统一换行：模块脚本在 Android 上执行，CRLF 会导致 "not found" 报错
+* text=auto eol=lf
+*.sh   text eol=lf
+*.py   text eol=lf
+*.md   text eol=lf
+*.json text eol=lf
+*.prop text eol=lf
+*.zip  binary

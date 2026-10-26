@@ -1,0 +1,7 @@
+id=groupguard
+name=GroupGuard Telegram Bot
+version=1.1.1
+versionCode=111
+author=GroupGuard Contributors
+description=Telegram 群管理机器人开机自启与保活模块。基于 Termux 原生 Python 运行，内置看门狗自动重启、环境自适应探测、交互式配置向导。需已 root 并安装 Termux。配套项目：telegram-group-manager
+updateJson=https://raw.githubusercontent.com/zhangdunlong/groupguard-android/main/update.json

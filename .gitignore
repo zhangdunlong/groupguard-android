@@ -1,0 +1,19 @@
+# 忽略构建产物与本地产物
+dist/
+*.zip
+
+# 运行时文件（绝不提交）
+.env
+*.sqlite3
+*.sqlite3-wal
+*.sqlite3-shm
+logs/
+.runtime/
+gg.conf
+
+# 系统/编辑器
+.DS_Store
+Thumbs.db
+*.swp
+__pycache__/
+*.pyc
